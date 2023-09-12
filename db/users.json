@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Ibragimov",
+    "lastname": "Ibragimov_Bekhruz",
+    "username": "Bekhruz",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470871,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Ilon",
+    "lastname": "Mask",
+    "username": "ilon_mask",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470871,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Alisher",
+    "lastname": "Usmonow",
+    "username": "alisher_usmonov",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470873,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Ilon",
+    "lastname": "Mask",
+    "username": "ilon_mask",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470875,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Stiv",
+    "lastname": "Jobs",
+    "username": "stiv_jobs",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470874,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Bill",
+    "lastname": "Geyts",
+    "username": "boll_geyts",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470876,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Uorren",
+    "lastname": "Baffet",
+    "username": "uorren_baffet",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470877,
+    "follows": [
+      964470871,
+      964470873,
+      964470874,
+      964470875,
+      964470876,
+      964470877
+    ]
+  },
+  {
+    "name": "Hhvgh",
+    "lastname": "Hhvjbh",
+    "username": "Hdjfbjfjc",
+    "phoneNumber": "998932398222",
+    "location": [
+      20.659324,
+      -11.406255
+    ],
+    "userId": 964470872,
+    "photo": "AgACAgIAAxkBAAIG52R1_0iAzg-XIrWgzbRfhlnMKym5AAJtyzEbHsexS4Swdr_ra-U7AQADAgADeAADLwQ"
+  },
+  {
+    "name": "ㅤㅤㅤㅤСардор Мадримов",
+    "lastname": "dfvdb",
+    "username": "dfbvdfb",
+    "phoneNumber": "+998941190749",
+    "location": [
+      41.203114,
+      69.211204
+    ],
+    "userId": 2072669814
+  }
+]
